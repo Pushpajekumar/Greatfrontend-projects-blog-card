@@ -24,7 +24,7 @@ At a high level, completing each challenge involves the following steps:
 
 ### Starter code
 
-This starter template consists of the following files and directories:
+This starter template consists of the followings files and directories:
 
 ```bash
 ├── README.md
